@@ -2,7 +2,7 @@ class binarysearch
 {
     public static void main(String args[])
     {
-        int arr[]={2,3,5,6,7};
+        int arr[]={2,3,5,6,8};
         int t=7;
        System.out.println(search(arr,t));
 
