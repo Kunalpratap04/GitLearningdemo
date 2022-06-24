@@ -5,6 +5,7 @@ class binarysearch
         int arr[]={2,3,5,6,8};
         int t=7;
        System.out.println(search(arr,t));
+		System.out.print("changed");
 
     }
     static int search(int arr[],int t)

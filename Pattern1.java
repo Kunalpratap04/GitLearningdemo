@@ -16,6 +16,7 @@ public class Pattern1 {
 			for(int j=1;j<=n+1-i;j++)
 			{
 				System.out.print(j);
+			System.out.print("new change");
 			}
 			
 			System.out.println();
